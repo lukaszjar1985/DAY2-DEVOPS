@@ -12,4 +12,4 @@ Mamy agentow -
 
 ![image](https://github.com/user-attachments/assets/9777daff-3bd2-4b51-a639-007b1f16ac8e)
 
-Pipeliny wykonywane sa na agentach
+Pipeliny wykonywane sa na agentach - Sa 2 typy agentow:
